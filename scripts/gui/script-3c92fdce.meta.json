@@ -1,0 +1,20 @@
+{
+    "name": "Cat & Fish Manager",
+    "slug": "script-3c92fdce",
+    "desc": "This script appears to be a UI and configuration manager for a cat and fish-related system in a Roblox game.",
+    "author": "anonymous",
+    "version": "1.0",
+    "game": "",
+    "tags": [
+        "ui",
+        "config",
+        "manager",
+        "colors"
+    ],
+    "category": "gui",
+    "created": 1771351958,
+    "updated": 1771351958,
+    "size": 45683,
+    "lines": 1399,
+    "file": "scripts\/gui\/script-3c92fdce.lua"
+}
