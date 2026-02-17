@@ -1,0 +1,17 @@
+{
+    "name": "CopySkin BrookHaven",
+    "slug": "brookhaven-copy-skin",
+    "desc": "Nothing, just copy skin",
+    "author": "ven",
+    "version": "1.0",
+    "game": "BrookHaven",
+    "tags": [
+        "copy_skin"
+    ],
+    "category": "games",
+    "created": 1771342525,
+    "updated": 1771342525,
+    "size": 44028,
+    "lines": 1226,
+    "file": "scripts\/games\/brookhaven-copy-skin.lua"
+}
