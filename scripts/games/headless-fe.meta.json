@@ -1,0 +1,17 @@
+{
+    "name": "Headless Universe",
+    "slug": "headless-fe",
+    "desc": "Make Headless",
+    "author": "Ven",
+    "version": "1.0",
+    "game": "Universal",
+    "tags": [
+        "Skin"
+    ],
+    "category": "games",
+    "created": 1771350708,
+    "updated": 1771350708,
+    "size": 12653,
+    "lines": 365,
+    "file": "scripts\/games\/headless-fe.lua"
+}
