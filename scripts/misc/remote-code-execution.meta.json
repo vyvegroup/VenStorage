@@ -1,0 +1,20 @@
+{
+    "name": "Remote Code Execution",
+    "slug": "remote-code-execution",
+    "desc": "This script executes Lua code from a remote GitHub URL.",
+    "author": "anonymous",
+    "version": "1.0",
+    "game": "",
+    "tags": [
+        "remote",
+        "execution",
+        "http",
+        "lua"
+    ],
+    "category": "misc",
+    "created": 1771352375,
+    "updated": 1771352375,
+    "size": 127,
+    "lines": 1,
+    "file": "scripts\/misc\/remote-code-execution.lua"
+}
