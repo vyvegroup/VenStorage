@@ -1,0 +1,20 @@
+{
+    "name": "Venxy Script Loader",
+    "slug": "venxy-script-loader",
+    "desc": "This script downloads and executes Lua code from a remote URL.",
+    "author": "anonymous",
+    "version": "1.0",
+    "game": "",
+    "tags": [
+        "exploit",
+        "remote",
+        "injection",
+        "lua"
+    ],
+    "category": "misc",
+    "created": 1771352316,
+    "updated": 1771352316,
+    "size": 74,
+    "lines": 1,
+    "file": "scripts\/misc\/venxy-script-loader.lua"
+}
