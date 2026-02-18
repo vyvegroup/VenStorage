@@ -1,0 +1,21 @@
+{
+    "name": "Stalker Join UI",
+    "slug": "s-0a146b60",
+    "desc": "Creates a draggable, mobile-friendly UI for joining other Roblox games via game ID. Includes theme configuration for visual customization.",
+    "author": "anon",
+    "version": "1.0",
+    "game": "",
+    "tags": [
+        "gui",
+        "utility",
+        "cross-game",
+        "join",
+        "ui"
+    ],
+    "category": "gui",
+    "created": 1771402639,
+    "updated": 1771402639,
+    "size": 41215,
+    "lines": 1018,
+    "file": "scripts\/gui\/s-0a146b60.lua"
+}
